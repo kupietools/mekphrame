@@ -1,6 +1,6 @@
 # mekphrame
 
-This is a framework for automating web browser interactions. It is designed to be a simple, yet powerful tool for automating web browser interactions. It is built on top of the Selenium WebDriver and Node.js.
+This is a framework for automating web browser interactions. The goal is to provide easily-understood, semantic functions for automated website testing, which automatically produce a beautiful and easily human-readable output log of all test progress and results, without the need for the human tester to configure the desired output. It is built on top of the Selenium WebDriver and Node.js.
 
 ## Current Status
 
